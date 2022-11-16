@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vladislav Dombrovskiy
-I want to become a professional Front-End Developer
+I wonna become a professional Front-End Developer
 
 <!---
 Snekuser/Snekuser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
