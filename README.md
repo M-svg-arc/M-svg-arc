@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vladislav Dombrovskiy
+- 👋 Hi, I’m Jeffru Campbel
 I wonna become a professional Front-End Developer
 
 <!---
