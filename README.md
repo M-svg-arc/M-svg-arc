@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jeffrey Campbel
+- 👋 Hi, I’m Jeffrey Campbell
 I wonna become a professional Front-End Developer
 
 <!---
