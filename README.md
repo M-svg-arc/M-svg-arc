@@ -4,10 +4,10 @@ I wonna become a professional QA-engineer
 My stack
 
 1. Manual Testing:
-    Git, ChromeDevTools, Postman, Figma, SQL, Jira
+    Git, ChromeDevTools, Postman, SQL, Jira
 
 2. Web:
-    Html, Css, JavaScript
+    Html, Css, JavaScript, Figma
 
 3. Automation Testing:
     In progress
